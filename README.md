@@ -1,6 +1,6 @@
 # Brasil sobre Impacto 2
 
-[Notebook original (.ipynb)](Brasil_sob_Impacto.ipynb)
+[Notebook original (.ipynb)](cadernos/Brasil_sob_Impacto.ipynb)
 
 Esta página mostra os resultados salvos. Para recalcular a análise, use o projeto completo com os scripts e os dados.
 

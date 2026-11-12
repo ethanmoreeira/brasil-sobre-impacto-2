@@ -1,0 +1,16 @@
+.apoio_local/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
+
